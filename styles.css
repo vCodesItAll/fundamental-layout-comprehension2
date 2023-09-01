@@ -54,3 +54,9 @@ nav a {
     float:left;
 }
 
+/* This keeps the navigation bar stuck to the top */
+.sticky {
+    position: fixed;
+    top:0;
+    width: 100%;
+}
